@@ -12,5 +12,7 @@ I designed a miniature gaming Macropad featuring 8 mechanical push-button switch
 <img width="986" alt="Bottom_Plate_Image" src="https://github.com/user-attachments/assets/f3b7f69f-e867-44a5-b19e-522024da18d4" />
 <img width="1033" alt="Top_Plate_Image" src="https://github.com/user-attachments/assets/ee712481-a860-4d30-971f-1b5fdec6f3ae" />
 
+Over the LED Light Hole, a thin layer of hard plastic will be added to allow light to pass through without the user being able to touch the inside. 
+
 Reflection: *To be added
 
