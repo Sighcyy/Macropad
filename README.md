@@ -1,4 +1,5 @@
-# Macropad
+# KATOB Macropad
+(Keyboard Are Too Big)
 *Build Guide and Final Image will be added once completed
 
 I designed a miniature gaming Macropad featuring 8 mechanical push-button switches, a rotary encoder, and an RGB LED for indication. It features an EC11 rotary encoder, 1 addressable RGB LED, and the Seeed XIAO RP2040 microcontroller, which was chosen for its small form factor and support for KMK firmware. The parts are populated on a custom PCB for tidy arrangement and good performance. The case is fully 3D printable, making the design easy to reproduce and customize. This Macropad provides a programmable, mini interface to enhance game control and responsiveness.
